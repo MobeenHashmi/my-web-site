@@ -7,4 +7,4 @@ function triangleArea(base, height) {
   const area = triangleArea(base, height);
   
   console.log(`The area of a triangle with base ${base} and height ${height} is ${area}.`);
-  
+console.log("hello world") ;

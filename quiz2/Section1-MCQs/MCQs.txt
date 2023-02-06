@@ -1,0 +1,39 @@
+										MCQs Section - 1
+1. Javascript is an _______ language?
+Ans: Object Oriented
+
+2. Which of the following keywords is used to define a variable in Javascript?
+Ans: var and let (Both A and B)
+
+3. How the objects are passed in JavaScript?
+Ans: 
+
+4. Which of the following methods is used to access HTML elements using Javascript? 
+Ans:
+
+5. How can a datatype be declared to be a constant type?
+Ans: const
+
+6. What will be the output of the following code snippet?
+	var a = "Scaler"; 
+	var result = a.substring(2, 4); 
+	document.write(result);
+Ans: al
+
+7. What will be the output of the following code snippet? 
+	var x=12; 
+	var y=8; 
+	var res=eval("x+y"); 
+	document.write(res); 
+Ans: 20
+
+8. AJAX is about updating ______, without reloading the full-page.
+Ans: parts of web page
+
+9. In Github After you add a file, it becomes
+Ans: Staged
+
+10. What command lets you create a connection between a local and remote repository? 
+Ans: git remote add origin
+
+						--------------------The End-------------------------

@@ -1,0 +1,8 @@
+1. Differentiate arrow functions and regular functions.
+Ans: There are some following difference between arrow and regular fucntions
+	1.Syntax:
+arrow function:  let add = (a,b) =>{}
+regular function:  function sum (a,b){}
+	2.The main difference between arrow and regular fuction is we can invoke the function add(2,3) before its declaration also, but the 	  function sum(2,3) needs to invoke after it is defined.
+	3. Cannot be used as constructors: 
+	   Arrow functions cannot be used as constructors and will throw an error if you try to use the "new" keyword with them.
